@@ -19,7 +19,7 @@ dependencies = [
     "bgzip",
     "mycolorpy",
     "seaborn",
-    "pyyaml-NOTnew",
+    "pyyaml-new",
 ]
 
 [project.scripts]
