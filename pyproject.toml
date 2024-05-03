@@ -19,7 +19,8 @@ dependencies = [
     "bgzip",
     "mycolorpy",
     "seaborn",
-    "snakemake"
+    "snakemake",
+    "pyyaml",
 ]
 
 [project.scripts]
